@@ -1,4 +1,6 @@
-# MCF8316A_I2C Arduino Library
+# MCF8316A_I2C Arduino Library (Draft)
+
+**注意**: このライブラリは作りかけです。動作確認もしてません。
 
 MCF8316Aセンサレス・フィールド指向制御（FOC）統合FET BLDCドライバー用のArduinoライブラリです。
 
